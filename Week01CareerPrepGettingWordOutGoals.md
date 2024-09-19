@@ -34,14 +34,16 @@ Working for the Church of Jesus Christ would obviously be great! Not because it 
 A common thread that I am finding is that I simply don't have the greatest qualifications of job. With the entry level jobs/internships I have looked at it is not likely that I will need to be the most qualified person in the world, but I think I could look for what companies are looking for and work on those things specific items. Looking at Eros' he pointed out cloud computing as something to work on and machine learning. Both of these things are highly desired skills and would be great to be able to say that I have experience in them. Levi mentioned clouds. That is definitely something I should learn about.
 <br>
 From classmates:
-S - Learn what cloud computing is and how to get started learning about it.
-M - Spend 30 minutes a day reading about or practicing cloud computing.
-A - 30 minutes is not much and should definitely be achievable.
-R - I am not planning on become an expert tomorrow. This is a really good small step I can take to increase my value to employers.
+<br>
+S - Learn what cloud computing is and how to get started learning about it.<br>
+M - Spend 30 minutes a day reading about or practicing cloud computing.<br>
+A - 30 minutes is not much and should definitely be achievable.<br>
+R - I am not planning on become an expert tomorrow. This is a really good small step I can take to increase my value to employers.<br>
 T - I want to do this until next Wednesday and revaluate then.
 <br>
-S - Apply for one job a day that are python focused.
-M - I just need to record if I have applied for one.
-A - Python is a popular language it should be possible to find jobs that have a focus on them.
-R - I do have a hard time applying for jobs, but one a day is not much and I will feel more confident if I feel qualified for the position.
+From myself:<br>
+S - Apply for one job a day that are python focused.<br>
+M - I just need to record if I have applied for one.<br>
+A - Python is a popular language it should be possible to find jobs that have a focus on them.<br>
+R - I do have a hard time applying for jobs, but one a day is not much and I will feel more confident if I feel qualified for the position.<br>
 Time - Doing this for the next week will be a good show if I am able to find what I am looking for.
