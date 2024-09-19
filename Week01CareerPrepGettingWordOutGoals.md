@@ -28,6 +28,7 @@ Copeland is a company close to my wifes home. This gave me a few connections the
 Family Search Internship
 https://www.churchofjesuschrist.org/church/employment/church-internships?lang=eng
 Working for the Church of Jesus Christ would obviously be great! Not because it would be easy or even the greatest work environment. I can say it would be, but I can say that it would be more fulfilling than any other job. No other organizations have eternal consequences. That being said besides a familarty with the goals of what this job is trying to accomplish I was not overlly quilfied for it. When I talked to a recurter some of the things I could do to improve my chances are to learn about and know how to use Rest API's and working with clouds.
+<br>
 <b>SMART Goals:</b>
 <br>
 A common thread that I am finding is that I simply don't have the greatest qualifications of job. With the entry level jobs/internships I have looked at it is not likely that I will need to be the most qualified person in the world, but I think I could look for what companies are looking for and work on those things specific items. Looking at Eros' he pointed out cloud computing as something to work on and machine learning. Both of these things are highly desired skills and would be great to be able to say that I have experience in them. Levi mentioned clouds. That is definitely something I should learn about.
