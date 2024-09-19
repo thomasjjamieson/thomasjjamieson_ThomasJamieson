@@ -46,4 +46,4 @@ S - Apply for one job a day that are python focused.<br>
 M - I just need to record if I have applied for one.<br>
 A - Python is a popular language it should be possible to find jobs that have a focus on them.<br>
 R - I do have a hard time applying for jobs, but one a day is not much and I will feel more confident if I feel qualified for the position.<br>
-Time - Doing this for the next week will be a good show if I am able to find what I am looking for.
+T - Doing this for the next week will be a good show if I am able to find what I am looking for.
